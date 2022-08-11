@@ -1,6 +1,6 @@
 
 # OOP
-My solutions as I work through fCC's OOP Challenges
+My solutions as I work through fCC's OOP courseware
 
 
 # Hi, I'm Matt! 👋
